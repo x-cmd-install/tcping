@@ -7,7 +7,7 @@ about:
   head: 19b455d
   archived: false
   latestVersion: v2.8.0
-  collectedAt: 2026-09-04T19:33:20Z
+  collectedAt: 2026-09-04T21:01:39Z
 timeline:
   created: 2021-02-25
   lastCommit: 2026-09-03
@@ -82,5 +82,48 @@ total:
   openIssue: 14
   commit: 1326
 ---
+path: /home/runner/.x-repo/github.com/pouriyajamshidi/tcping
+collectedAt: 2026-09-04T21:01:40Z
+loc:
+  Go:
+    code: 8205
+    comments: 951
+    blanks: 1729
+    files: 43
+  Json:
+    code: 373
+    comments: 0
+    blanks: 0
+    files: 1
+  Makefile:
+    code: 144
+    comments: 48
+    blanks: 36
+    files: 1
+  Yaml:
+    code: 129
+    comments: 14
+    blanks: 11
+    files: 4
+  Toml:
+    code: 38
+    comments: 5
+    blanks: 2
+    files: 1
+  Dockerfile:
+    code: 11
+    comments: 8
+    blanks: 8
+    files: 1
+  Markdown:
+    code: 0
+    comments: 939
+    blanks: 389
+    files: 8
+total:
+  code: 8982
+  comments: 2001
+  blanks: 2177
+  files: 59
 ---
 
