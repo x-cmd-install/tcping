@@ -1,0 +1,183 @@
+about:
+  description: "Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go"
+  license: MIT
+  homepage: 
+  head: 8db4b22
+  archived: false
+  latestVersion: "v2.8.0"
+  collectedAt: 2026-09-07T05:44:31Z
+timeline:
+  created: 2021-02-25
+  lastCommit: 2026-09-06
+  lastRelease: 2026-05-11
+popularity:
+  star: 1331
+  watcher: 11
+  fork: 124
+  release: 27
+  contributor: 24
+  pullRequest: 317
+  issue: 104
+language:
+  Go: 385673
+  Shell: 8995
+  Makefile: 8570
+  PowerShell: 3151
+  Dockerfile: 548
+totalBytes: 406937
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 0
+    mergedPR: 1
+    openPR: 1
+    closedIssue: 0
+    openIssue: 1
+    commit: 387
+  last60d:
+    since: 2026-07-09
+    release: 0
+    mergedPR: 6
+    openPR: 1
+    closedIssue: 2
+    openIssue: 3
+    commit: 429
+  last90d:
+    since: 2026-06-09
+    release: 0
+    mergedPR: 13
+    openPR: 1
+    closedIssue: 3
+    openIssue: 3
+    commit: 438
+  last180d:
+    since: 2026-03-11
+    release: 1
+    mergedPR: 29
+    openPR: 1
+    closedIssue: 4
+    openIssue: 4
+    commit: 507
+  last360d:
+    since: 2025-09-12
+    release: 1
+    mergedPR: 52
+    openPR: 1
+    closedIssue: 7
+    openIssue: 6
+    commit: 532
+  last720d:
+    since: 2024-09-17
+    release: 4
+    mergedPR: 139
+    openPR: 1
+    closedIssue: 30
+    openIssue: 9
+    commit: 795
+total:
+  release: 27
+  mergedPR: 293
+  openPR: 1
+  closedIssue: 90
+  openIssue: 14
+  commit: 1370
+---
+path: /home/runner/.x-repo/github.com/pouriyajamshidi/tcping
+collectedAt: 2026-09-07T05:44:34Z
+loc:
+  Go:
+    code: 10025
+    comments: 1155
+    blanks: 2101
+    files: 54
+  Json:
+    code: 1955
+    comments: 0
+    blanks: 0
+    files: 1
+  Makefile:
+    code: 173
+    comments: 55
+    blanks: 42
+    files: 1
+  Sh:
+    code: 135
+    comments: 17
+    blanks: 35
+    files: 1
+  Yaml:
+    code: 129
+    comments: 14
+    blanks: 11
+    files: 4
+  PowerShell:
+    code: 46
+    comments: 9
+    blanks: 10
+    files: 1
+  Bash:
+    code: 41
+    comments: 9
+    blanks: 8
+    files: 1
+  Toml:
+    code: 38
+    comments: 5
+    blanks: 2
+    files: 1
+  Fish:
+    code: 34
+    comments: 6
+    blanks: 8
+    files: 1
+  Dockerfile:
+    code: 11
+    comments: 8
+    blanks: 8
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1106
+    blanks: 442
+    files: 8
+total:
+  code: 12691
+  comments: 2421
+  blanks: 2669
+  files: 74
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T05:44:36+00:00
+  platform:
+    darwin/arm64:
+      name:  tcping-darwin-arm64-static.tar.gz
+      url:   https://github.com/pouriyajamshidi/tcping/releases/download/v2.8.0/tcping-darwin-arm64-static.tar.gz
+      size:  4157591
+      score: 45
+    darwin/amd64:
+      name:  tcping-darwin-amd64-static.tar.gz
+      url:   https://github.com/pouriyajamshidi/tcping/releases/download/v2.8.0/tcping-darwin-amd64-static.tar.gz
+      size:  4456379
+      score: 45
+    linux/arm64:
+      name:  tcping-linux-arm64-dynamic.tar.gz
+      url:   https://github.com/pouriyajamshidi/tcping/releases/download/v2.8.0/tcping-linux-arm64-dynamic.tar.gz
+      size:  4033659
+      score: 45
+    linux/amd64:
+      name:  tcping-linux-amd64-dynamic.tar.gz
+      url:   https://github.com/pouriyajamshidi/tcping/releases/download/v2.8.0/tcping-linux-amd64-dynamic.tar.gz
+      size:  4430100
+      score: 45
+    win/arm64:
+      name:  tcping-windows-arm64-dynamic.zip
+      url:   https://github.com/pouriyajamshidi/tcping/releases/download/v2.8.0/tcping-windows-arm64-dynamic.zip
+      size:  4043528
+      score: 45
+    win/amd64:
+      name:  tcping-windows-amd64-dynamic.zip
+      url:   https://github.com/pouriyajamshidi/tcping/releases/download/v2.8.0/tcping-windows-amd64-dynamic.zip
+      size:  4475106
+      score: 45
