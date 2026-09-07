@@ -2,16 +2,16 @@ about:
   description: "Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go"
   license: MIT
   homepage: 
-  head: 8db4b22
+  head: 910c800
   archived: false
   latestVersion: "v2.8.0"
-  collectedAt: 2026-09-07T05:44:31Z
+  collectedAt: 2026-09-07T18:45:15Z
 timeline:
   created: 2021-02-25
-  lastCommit: 2026-09-06
+  lastCommit: 2026-09-07
   lastRelease: 2026-05-11
 popularity:
-  star: 1331
+  star: 1332
   watcher: 11
   fork: 124
   release: 27
@@ -19,12 +19,12 @@ popularity:
   pullRequest: 317
   issue: 104
 language:
-  Go: 385673
+  Go: 391441
+  Makefile: 9347
   Shell: 8995
-  Makefile: 8570
   PowerShell: 3151
   Dockerfile: 548
-totalBytes: 406937
+totalBytes: 413482
 recent:
   last30d:
     since: 2026-08-08
@@ -33,7 +33,7 @@ recent:
     openPR: 1
     closedIssue: 0
     openIssue: 1
-    commit: 387
+    commit: 400
   last60d:
     since: 2026-07-09
     release: 0
@@ -41,7 +41,7 @@ recent:
     openPR: 1
     closedIssue: 2
     openIssue: 3
-    commit: 429
+    commit: 442
   last90d:
     since: 2026-06-09
     release: 0
@@ -49,7 +49,7 @@ recent:
     openPR: 1
     closedIssue: 3
     openIssue: 3
-    commit: 438
+    commit: 451
   last180d:
     since: 2026-03-11
     release: 1
@@ -57,7 +57,7 @@ recent:
     openPR: 1
     closedIssue: 4
     openIssue: 4
-    commit: 507
+    commit: 520
   last360d:
     since: 2025-09-12
     release: 1
@@ -65,7 +65,7 @@ recent:
     openPR: 1
     closedIssue: 7
     openIssue: 6
-    commit: 532
+    commit: 545
   last720d:
     since: 2024-09-17
     release: 4
@@ -73,22 +73,22 @@ recent:
     openPR: 1
     closedIssue: 30
     openIssue: 9
-    commit: 795
+    commit: 808
 total:
   release: 27
   mergedPR: 293
   openPR: 1
   closedIssue: 90
   openIssue: 14
-  commit: 1370
+  commit: 1383
 ---
 path: /home/runner/.x-repo/github.com/pouriyajamshidi/tcping
-collectedAt: 2026-09-07T05:44:34Z
+collectedAt: 2026-09-07T18:45:22Z
 loc:
   Go:
-    code: 10025
-    comments: 1155
-    blanks: 2101
+    code: 10064
+    comments: 1238
+    blanks: 2102
     files: 54
   Json:
     code: 1955
@@ -96,9 +96,9 @@ loc:
     blanks: 0
     files: 1
   Makefile:
-    code: 173
-    comments: 55
-    blanks: 42
+    code: 184
+    comments: 60
+    blanks: 46
     files: 1
   Sh:
     code: 135
@@ -120,15 +120,15 @@ loc:
     comments: 9
     blanks: 8
     files: 1
-  Toml:
-    code: 38
-    comments: 5
-    blanks: 2
-    files: 1
   Fish:
     code: 34
     comments: 6
     blanks: 8
+    files: 1
+  Toml:
+    code: 32
+    comments: 33
+    blanks: 13
     files: 1
   Dockerfile:
     code: 11
@@ -141,15 +141,15 @@ loc:
     blanks: 442
     files: 8
 total:
-  code: 12691
-  comments: 2421
-  blanks: 2669
+  code: 12735
+  comments: 2537
+  blanks: 2685
   files: 74
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:44:36+00:00
+  collectedAt: 2026-09-07T18:45:31+00:00
   platform:
     darwin/arm64:
       name:  tcping-darwin-arm64-static.tar.gz
