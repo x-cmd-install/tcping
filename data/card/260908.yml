@@ -5,7 +5,7 @@ about:
   head: f829350
   archived: false
   latestVersion: "v2.8.0"
-  collectedAt: 2026-09-08T03:00:17Z
+  collectedAt: 2026-09-08T05:45:50Z
 timeline:
   created: 2021-02-25
   lastCommit: 2026-09-07
@@ -83,7 +83,7 @@ total:
   commit: 1392
 ---
 path: /home/runner/.x-repo/github.com/pouriyajamshidi/tcping
-collectedAt: 2026-09-08T03:00:19Z
+collectedAt: 2026-09-08T05:45:52Z
 loc:
   Go:
     code: 10144
