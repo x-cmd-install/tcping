@@ -2,15 +2,15 @@ about:
   description: "Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go"
   license: MIT
   homepage: 
-  head: 9052479
+  head: 64548f3
   archived: false
   latestVersion: "v2.8.0"
   latestRelease: "v2.8.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:51:08Z
+  collectedAt: 2026-09-09T20:19:56Z
 timeline:
   created: 2021-02-25
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-05-11
   lastRelease: 2026-05-11
   lastPrerelease: 
@@ -20,74 +20,75 @@ popularity:
   fork: 124
   release: 27
   contributor: 24
-  pullRequest: 317
+  pullRequest: 318
   issue: 104
 language:
-  Go: 398604
-  Makefile: 10826
-  Shell: 8995
+  Go: 398634
+  Shell: 18209
+  Makefile: 12636
   PowerShell: 3151
-  Dockerfile: 548
-totalBytes: 422124
+  Nix: 2379
+  Dockerfile: 830
+totalBytes: 435839
 recent:
   last30d:
     since: 2026-08-10
     release: 0
     mergedPR: 1
-    openPR: 1
+    openPR: 0
     closedIssue: 0
     openIssue: 1
-    commit: 413
+    commit: 424
   last60d:
     since: 2026-07-11
     release: 0
     mergedPR: 6
-    openPR: 1
+    openPR: 0
     closedIssue: 2
     openIssue: 3
-    commit: 455
+    commit: 466
   last90d:
     since: 2026-06-11
     release: 0
     mergedPR: 13
-    openPR: 1
+    openPR: 0
     closedIssue: 3
     openIssue: 3
-    commit: 464
+    commit: 475
   last180d:
     since: 2026-03-13
     release: 1
     mergedPR: 29
-    openPR: 1
+    openPR: 0
     closedIssue: 4
     openIssue: 4
-    commit: 533
+    commit: 544
   last360d:
     since: 2025-09-14
     release: 1
     mergedPR: 52
-    openPR: 1
+    openPR: 0
     closedIssue: 7
     openIssue: 6
-    commit: 558
+    commit: 569
   last720d:
     since: 2024-09-19
     release: 4
     mergedPR: 139
-    openPR: 1
+    openPR: 0
     closedIssue: 30
     openIssue: 9
-    commit: 821
+    commit: 832
 total:
   release: 27
   mergedPR: 293
-  openPR: 1
+  openPR: 0
   closedIssue: 90
   openIssue: 14
-  commit: 1396
+  commit: 1407
 ---
 path: /home/runner/.x-repo/github.com/pouriyajamshidi/tcping
-collectedAt: 2026-09-09T05:51:10Z
+collectedAt: 2026-09-09T20:19:57Z
 loc:
   Go:
     code: 10269
@@ -99,20 +100,25 @@ loc:
     comments: 0
     blanks: 0
     files: 1
+  Sh:
+    code: 288
+    comments: 77
+    blanks: 70
+    files: 2
+  Makefile:
+    code: 217
+    comments: 85
+    blanks: 57
+    files: 1
   Yaml:
     code: 204
     comments: 30
     blanks: 15
     files: 5
-  Makefile:
-    code: 194
-    comments: 72
-    blanks: 53
-    files: 1
-  Sh:
-    code: 135
-    comments: 17
-    blanks: 35
+  Nix:
+    code: 71
+    comments: 2
+    blanks: 4
     files: 1
   PowerShell:
     code: 46
@@ -135,20 +141,20 @@ loc:
     blanks: 13
     files: 1
   Dockerfile:
-    code: 11
-    comments: 8
+    code: 12
+    comments: 11
     blanks: 8
     files: 1
   Markdown:
     code: 0
-    comments: 1140
-    blanks: 459
+    comments: 1172
+    blanks: 473
     files: 8
 total:
-  code: 13034
-  comments: 2624
-  blanks: 2761
-  files: 76
+  code: 13296
+  comments: 2734
+  blanks: 2818
+  files: 78
 ---
 
 ---
