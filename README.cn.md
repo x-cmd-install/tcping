@@ -1,51 +1,51 @@
 # tcping
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go
 
-![tcping](https://repo.x-cmd.io/tcping.svg)
+![tcping](https://repo.x-cmd.io/tcping.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install tcping
 ```
 
-## Code insight
+## 代码洞察
 
-Total: **13,668** lines of code across **68** files in the top 5 languages.
+合计: **13,668** 行代码（覆盖前 5 种语言、共 **68** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Go | 10,756 | 1,345 | 2,278 | 59 |
 | Json | 1,955 | 0 | 0 | 1 |
 | Sh | 289 | 77 | 70 | 2 |
 | Makefile | 223 | 89 | 55 | 1 |
 | Yaml | 204 | 30 | 15 | 5 |
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/pouriyajamshidi/tcping>
-- **License**: MIT
+- **上游仓库**: <https://github.com/pouriyajamshidi/tcping>
+- **许可证**: MIT
 
-## Release
+## 发布
 
-- **Latest**: `v2.8.0` (2026-05-11)
-- **Last commit**: 2026-09-10
-- **Assets in release**: 18
+- **最新版本**: `v2.8.0` (2026-05-11)
+- **最近提交**: 2026-09-10
+- **Release 含资产**: 18 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 1,333 · **Forks**: 124 · **Open issues**: 104 · **Contributors**: 24
+- **Star**: 1,333 · **Fork**: 124 · **开放 issue**: 104 · **贡献者**: 24
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 27 · **Merged PRs**: 293 · **Open PRs**: 0 · **Closed issues**: 90 · **Open issues**: 14 · **Commits**: 1428
+- **发布数**: 27 · **已合并 PR**: 293 · **开放 PR**: 0 · **已关闭 issue**: 90 · **开放 issue**: 14 · **提交数**: 1428
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 1 | 0 | 0 | 1 | 445 |
 | last60d | 2026-07-12 | 0 | 5 | 0 | 2 | 3 | 487 |
@@ -54,10 +54,10 @@ Total: **13,668** lines of code across **68** files in the top 5 languages.
 | 360d | 2025-09-15 | 1 | 52 | 0 | 7 | 6 | 590 |
 | last720d | 2024-09-20 | 4 | 139 | 0 | 30 | 9 | 853 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [tcping-amd64.deb](https://github.com/pouriyajamshidi/tcping/releases/download/v2.8.0/tcping-amd64.deb) | 3.6 MiB | `other` |
 | [tcping-arm64.deb](https://github.com/pouriyajamshidi/tcping/releases/download/v2.8.0/tcping-arm64.deb) | 3.3 MiB | `other` |
 | [tcping-darwin-amd64-dynamic.tar.gz](https://github.com/pouriyajamshidi/tcping/releases/download/v2.8.0/tcping-darwin-amd64-dynamic.tar.gz) | 4.2 MiB | `native/darwin/x64` |
@@ -77,13 +77,13 @@ Total: **13,668** lines of code across **68** files in the top 5 languages.
 | [tcping-windows-arm64-dynamic.zip](https://github.com/pouriyajamshidi/tcping/releases/download/v2.8.0/tcping-windows-arm64-dynamic.zip) | 3.9 MiB | `native/win/arm64` |
 | [tcping-windows-arm64-static.zip](https://github.com/pouriyajamshidi/tcping/releases/download/v2.8.0/tcping-windows-arm64-static.zip) | 3.9 MiB | `native/win/arm64` |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for tcping lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tcping` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+tcping 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `tcping` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/tcping.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/tcping.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:47:02Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:47:03Z._
