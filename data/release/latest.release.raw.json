@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3772566,
       "digest": "sha256:324ba968bbafbb4802a6e38502d989fcbac32b71dcd0b1a6e1c38ad746e66f41",
-      "download_count": 4958,
+      "download_count": 4960,
       "created_at": "2026-05-11T13:08:57Z",
       "updated_at": "2026-05-11T13:09:00Z",
       "browser_download_url": "https://github.com/pouriyajamshidi/tcping/releases/download/v2.8.0/tcping-amd64.deb"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3424500,
       "digest": "sha256:649f057b03df0a5bae867ffcbbf067b5273f642d56d908559ff9614173285251",
-      "download_count": 326,
+      "download_count": 327,
       "created_at": "2026-05-11T13:09:00Z",
       "updated_at": "2026-05-11T13:09:04Z",
       "browser_download_url": "https://github.com/pouriyajamshidi/tcping/releases/download/v2.8.0/tcping-arm64.deb"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 4430100,
       "digest": "sha256:13bb55ad630fc6dc29afe9a70da7948ada22871552d10600220bdc06e254fb47",
-      "download_count": 391,
+      "download_count": 393,
       "created_at": "2026-05-11T13:09:38Z",
       "updated_at": "2026-05-11T13:09:41Z",
       "browser_download_url": "https://github.com/pouriyajamshidi/tcping/releases/download/v2.8.0/tcping-linux-amd64-dynamic.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 4410000,
       "digest": "sha256:f88d660ec6d59b1295a229f89c41ce0c8d5df7a3c1e9a1e4f6016deba43ba569",
-      "download_count": 3247,
+      "download_count": 3278,
       "created_at": "2026-05-11T13:09:41Z",
       "updated_at": "2026-05-11T13:09:45Z",
       "browser_download_url": "https://github.com/pouriyajamshidi/tcping/releases/download/v2.8.0/tcping-linux-amd64-static.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 4033653,
       "digest": "sha256:4439f4d11c71675a174573acf0016fe9f8a5a3ccd406cec0f6a563b0446f44d5",
-      "download_count": 579,
+      "download_count": 592,
       "created_at": "2026-05-11T13:09:48Z",
       "updated_at": "2026-05-11T13:09:51Z",
       "browser_download_url": "https://github.com/pouriyajamshidi/tcping/releases/download/v2.8.0/tcping-linux-arm64-static.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 4475106,
       "digest": "sha256:bd6bb5c4fc31344ba248364ed8bd357b2349130e2aae58ff117bfcb86db5af68",
-      "download_count": 499,
+      "download_count": 501,
       "created_at": "2026-05-11T13:09:51Z",
       "updated_at": "2026-05-11T13:09:55Z",
       "browser_download_url": "https://github.com/pouriyajamshidi/tcping/releases/download/v2.8.0/tcping-windows-amd64-dynamic.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 4475106,
       "digest": "sha256:123feb4b3060c46f42168b3b22f45fece950120d54c70c255f6477707d96e2b0",
-      "download_count": 4612,
+      "download_count": 4618,
       "created_at": "2026-05-11T13:09:55Z",
       "updated_at": "2026-05-11T13:09:59Z",
       "browser_download_url": "https://github.com/pouriyajamshidi/tcping/releases/download/v2.8.0/tcping-windows-amd64-static.zip"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 4043528,
       "digest": "sha256:75721fc02171c98f1abdea1a4d8045d8acd3ad66176491b96db0e3d30eba500d",
-      "download_count": 79,
+      "download_count": 80,
       "created_at": "2026-05-11T13:09:59Z",
       "updated_at": "2026-05-11T13:10:03Z",
       "browser_download_url": "https://github.com/pouriyajamshidi/tcping/releases/download/v2.8.0/tcping-windows-arm64-dynamic.zip"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 4043528,
       "digest": "sha256:b739f48097df5c5ed4cf8d840b596c3810dc89db9e6ccfabad47df68beb8e121",
-      "download_count": 361,
+      "download_count": 364,
       "created_at": "2026-05-11T13:10:03Z",
       "updated_at": "2026-05-11T13:10:07Z",
       "browser_download_url": "https://github.com/pouriyajamshidi/tcping/releases/download/v2.8.0/tcping-windows-arm64-static.zip"
