@@ -14,15 +14,15 @@ x install tcping
 
 ## Code insight
 
-Total: **14,807** lines of code across **69** files in the top 5 languages.
+Total: **14,964** lines of code across **69** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 10,756 | 1,345 | 2,278 | 59 |
+| Go | 10,911 | 1,360 | 2,295 | 59 |
 | Json | 2,961 | 0 | 0 | 2 |
 | Yaml | 331 | 53 | 26 | 5 |
 | Sh | 289 | 77 | 70 | 2 |
-| Makefile | 223 | 92 | 56 | 1 |
+| Makefile | 223 | 94 | 56 | 1 |
 
 ## Source
 
@@ -32,27 +32,27 @@ Total: **14,807** lines of code across **69** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.8.0` (2026-05-11)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-09-14
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 1,334 · **Forks**: 124 · **Open issues**: 104 · **Contributors**: 24
+- **Stars**: 1,336 · **Forks**: 124 · **Open issues**: 104 · **Contributors**: 24
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 293 · **Open PRs**: 0 · **Closed issues**: 90 · **Open issues**: 14 · **Commits**: 1445
+- **Releases**: 27 · **Merged PRs**: 293 · **Open PRs**: 0 · **Closed issues**: 90 · **Open issues**: 14 · **Commits**: 1450
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 1 | 0 | 0 | 1 | 411 |
-| last60d | 2026-07-16 | 0 | 5 | 0 | 2 | 3 | 500 |
-| 90d | 2026-06-16 | 0 | 13 | 0 | 3 | 3 | 512 |
-| last180d | 2026-03-18 | 1 | 28 | 0 | 4 | 4 | 582 |
-| 360d | 2025-09-19 | 1 | 52 | 0 | 7 | 6 | 607 |
-| last720d | 2024-09-24 | 4 | 137 | 0 | 30 | 9 | 866 |
+| 30d | 2026-08-16 | 0 | 1 | 0 | 0 | 1 | 416 |
+| last60d | 2026-07-17 | 0 | 5 | 0 | 2 | 3 | 505 |
+| 90d | 2026-06-17 | 0 | 13 | 0 | 3 | 3 | 517 |
+| last180d | 2026-03-19 | 1 | 28 | 0 | 4 | 4 | 587 |
+| 360d | 2025-09-20 | 1 | 52 | 0 | 7 | 6 | 612 |
+| last720d | 2024-09-25 | 4 | 137 | 0 | 30 | 9 | 871 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for tcping lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T06:11:14Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T06:18:52Z._
