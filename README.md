@@ -32,27 +32,27 @@ Total: **15,357** lines of code across **75** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.8.0` (2026-05-11)
-- **Last commit**: 2026-09-19
+- **Last commit**: 2026-09-20
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 1,341 · **Forks**: 126 · **Open issues**: 106 · **Contributors**: 25
+- **Stars**: 1,341 · **Forks**: 125 · **Open issues**: 106 · **Contributors**: 25
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 293 · **Open PRs**: 0 · **Closed issues**: 90 · **Open issues**: 16 · **Commits**: 1461
+- **Releases**: 27 · **Merged PRs**: 295 · **Open PRs**: 0 · **Closed issues**: 92 · **Open issues**: 14 · **Commits**: 1465
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 1 | 0 | 0 | 2 | 363 |
-| last60d | 2026-07-22 | 0 | 4 | 0 | 2 | 5 | 515 |
-| 90d | 2026-06-22 | 0 | 12 | 0 | 3 | 5 | 526 |
-| last180d | 2026-03-24 | 1 | 28 | 0 | 4 | 6 | 595 |
-| 360d | 2025-09-25 | 1 | 52 | 0 | 7 | 8 | 622 |
-| last720d | 2024-09-30 | 4 | 135 | 0 | 30 | 11 | 882 |
+| 30d | 2026-08-22 | 0 | 3 | 0 | 2 | 0 | 0 |
+| last60d | 2026-07-23 | 0 | 6 | 0 | 4 | 3 | 0 |
+| 90d | 2026-06-23 | 0 | 14 | 0 | 5 | 3 | 0 |
+| last180d | 2026-03-25 | 1 | 29 | 0 | 6 | 4 | 0 |
+| 360d | 2025-09-26 | 1 | 54 | 0 | 9 | 6 | 0 |
+| last720d | 2024-10-01 | 4 | 137 | 0 | 32 | 9 | 882 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for tcping lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T06:09:38Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:20:02Z._
