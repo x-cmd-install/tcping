@@ -47,12 +47,12 @@ Total: **2,931** lines of code across **18** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 0 | 2 | 5 | 2 | 0 | 0 |
-| last60d | 2026-08-09 | 0 | 3 | 5 | 2 | 1 | 0 |
-| 90d | 2026-07-10 | 0 | 8 | 5 | 4 | 3 | 0 |
-| last180d | 2026-04-11 | 1 | 26 | 5 | 6 | 4 | 3 |
-| 360d | 2025-10-13 | 1 | 51 | 5 | 8 | 5 | 30 |
-| last720d | 2024-10-18 | 3 | 127 | 5 | 26 | 9 | 237 |
+| 30d | 2026-09-09 | 0 | 2 | 5 | 2 | 0 | 0 |
+| last60d | 2026-08-10 | 0 | 3 | 5 | 2 | 1 | 0 |
+| 90d | 2026-07-11 | 0 | 8 | 5 | 4 | 3 | 0 |
+| last180d | 2026-04-12 | 1 | 26 | 5 | 6 | 4 | 3 |
+| 360d | 2025-10-14 | 1 | 51 | 5 | 8 | 5 | 30 |
+| last720d | 2024-10-19 | 3 | 127 | 5 | 26 | 9 | 237 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for tcping lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T07:07:43Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T07:03:56Z._
