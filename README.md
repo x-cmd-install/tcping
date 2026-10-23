@@ -37,7 +37,7 @@ Total: **2,931** lines of code across **18** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,348 · **Forks**: 127 · **Open issues**: 106 · **Contributors**: 23
+- **Stars**: 1,349 · **Forks**: 127 · **Open issues**: 106 · **Contributors**: 23
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **2,931** lines of code across **18** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 0 | 2 | 1 | 2 | 0 | 0 |
-| 90d | 2026-07-24 | 0 | 6 | 1 | 4 | 3 | 0 |
-| last180d | 2026-04-25 | 1 | 25 | 1 | 5 | 4 | 3 |
-| 360d | 2025-10-27 | 1 | 48 | 1 | 8 | 5 | 27 |
-| last720d | 2024-11-01 | 3 | 125 | 1 | 25 | 9 | 236 |
+| 30d | 2026-09-23 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 0 | 2 | 1 | 2 | 0 | 0 |
+| 90d | 2026-07-25 | 0 | 6 | 1 | 4 | 3 | 0 |
+| last180d | 2026-04-26 | 1 | 25 | 1 | 5 | 4 | 3 |
+| 360d | 2025-10-28 | 1 | 48 | 1 | 8 | 5 | 27 |
+| last720d | 2024-11-02 | 3 | 125 | 1 | 25 | 9 | 236 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for tcping lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:40:39Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:42:25Z._
